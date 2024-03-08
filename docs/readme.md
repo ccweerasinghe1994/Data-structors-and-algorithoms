@@ -57,3 +57,12 @@ Time Taken 0.0ms
 ## Asymptotic Analysis of Algorithms
 
 ![img_9.png](img_9.png)
+
+## Asymptotic Notations
+
+![img_10.png](img_10.png)
+
+## Types of Asymptotic Notations
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
