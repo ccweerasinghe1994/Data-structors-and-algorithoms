@@ -51,3 +51,5 @@ Time Taken 0.0ms
 ```
 
 ## Space Complexity
+
+![img_8.png](img_8.png)
